@@ -1,0 +1,22 @@
+.character {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    height: 500px;
+    width: auto;
+}
+
+img {
+    width: auto;
+}
+
+.character-details{
+    border-radius: 10%;
+    width: 50%;
+    text-align: center;
+}
+
+.character-details h2 {
+    color:blueviolet;
+    
+}
