@@ -8,7 +8,7 @@ class App extends React.Component {
     super(props)
     this.state = {
       count : 0,
-      quote : 'salut les copains',
+      quote : 'Ha ha!',
       character : '',
       image : ''
     }
